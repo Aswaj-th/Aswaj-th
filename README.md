@@ -18,7 +18,6 @@
 ## Activity
 <p align="center">
 <a href="https://github.com/Aswaj-th">
-  <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=Aswaj-th&theme=blueberry-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswaj-th&theme=tokyo-night&custom_title=Aswaj-th%20Activity%20Graph&hide_border=true">
 </a>
 </p>
