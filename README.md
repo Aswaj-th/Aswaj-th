@@ -2,7 +2,7 @@
 
 ## Languages and Tools
 <p align="center">
-<a href="https://github.com/pranshu314">
+<a href="https://github.com/Aswaj-th">
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts,cpp,py,c,java,express,nodejs,mongodb,mysql,firebase,git,github,linux,postman">
 </a>
 </p>
